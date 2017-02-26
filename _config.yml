@@ -1,0 +1,28 @@
+title: IpTec
+description: Tecnologia e Programaçao
+
+url: https://iptecblog.github.io/
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Inicio
+   url: /index.html
+ - title: Sobre
+   url: /about
+ - title: Contato
+   url: /contact
+
+social:
+   github: iptecblog
+   twitter: 
+   facebook: 
+   email: iptecnologia14@gmail.com
+
+google_analytics: ""
