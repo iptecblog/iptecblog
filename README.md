@@ -1,2 +1,2 @@
-# iptecblog.github.io
-## Blog Tecnologia e Programação 
+# IpTec
+### Blog Tecnologia e Programação 
